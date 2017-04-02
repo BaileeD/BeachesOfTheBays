@@ -1,0 +1,144 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* header tag */
+#header{
+	position:absolute;
+	width:1024px;
+	height:120px;
+	z-index:1;
+	background-color:#0000FF;
+	left: 10px;
+	top: 15px;
+	
+}
+/* navigation tag */	
+#navigation{
+	position:absolute;
+	margin-top:120px;
+	width:150px;
+	height:534px;
+	z-index:1;
+	float:left;
+	background-color:#00FF33;
+}
+/* animation tag */
+#animation{
+	position:absolute;
+	margin-left:624px;
+	margin-top:120px;
+	width:400px;
+	height:267px;
+	z-index:1;
+	float:right;
+	background-color:#00FF33;
+}
+/* image tag */
+#image{
+	position:absolute;
+	margin-top:387px;
+	margin-left:624px;
+	width:400px;
+	height:267px;
+	z-index:1;
+	float:right;
+	background-color:#00FF33;
+}
+/* information tag */
+#information{
+	position:absolute;
+	margin-left:150px;
+	margin-top:120px;
+	width:474px;
+	height:534px;
+	z-index:1;
+	float:right;
+	background-color:#00FFFF;
+	font:"Comic Sans MS", cursive;
+	font-size:15.5px;
+	font-style:normal;
+	font-weight:bold;
+	color:#000000;	
+}
+/* home button tag */
+#homebutton{
+	position:absolute;
+	margin-left:25px;
+	margin-top:186.75px;
+	width:100px;
+	height:50px;
+	z-index:2;
+	float:left;
+	background-color:#000000;
+	font:"Comic Sans MS", cursive;
+	font-size:medium;
+	font-style:normal;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+/* surrounding area button tag */
+#surroundingarea{
+	position:absolute;
+	margin-left:25px;
+	margin-top:353.50px;
+	width:100px;
+	height:50px;
+	z-index:2;
+	float:left;
+	background-color:#000000;
+	font:"Comic Sans MS", cursive;
+	font-size:medium;
+	font-style:normal;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+/* tides and events button tag */
+#tidesandevents{
+	position:absolute;
+	margin-left:25px;
+	margin-top:520.25px;
+	width:100px;
+	height:50px;
+	z-index:2;
+	float:left;
+	background-color:#000000;
+	font:"Comic Sans MS", cursive;
+	font-size:medium;
+	font-style:normal;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+
+/* tides button tag */
+#tides{
+	position:absolute;
+	margin-left:200px;
+	margin-top:186.75px;
+	width:374px;
+	height:150px;
+	z-index:2;
+	float:right;
+	background-color:#000000;
+	font:"Comic Sans MS", cursive;
+	font-size:36px;
+	font-style:normal;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+
+/* events button tag */
+#events{
+	position:absolute;
+	margin-left:200px;
+	margin-top:456.75px;
+	width:374px;
+	height:150px;
+	z-index:2;
+	float:right;
+	background-color:#000000;
+	font:"Comic Sans MS", cursive;
+	font-size:36px;
+	font-style:normal;
+	font-weight:bold;
+	color:#FFFFFF;
+}
